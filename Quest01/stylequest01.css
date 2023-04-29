@@ -1,0 +1,60 @@
+
+
+.div1{
+   
+    width:300px;
+    height: 300px;
+}
+
+@media(min-width:320px){
+    .div1{
+        background-color: black;
+    }
+}
+
+@media (min-width:480px){
+    .div1{
+        background-color:rgba(25, 139, 247, 0.986);
+    }
+}
+
+@media (min-width:600px){
+    .div1{
+        background-color:rgba(25, 247, 36, 0.986);
+    }
+}
+
+@media (min-width:764px){
+    .div1{
+        background-color:rgba(247, 232, 25, 0.986);
+    }
+}
+
+@media (min-width:800px){
+    .div1{
+        background-color:rgba(247, 158, 25, 0.986);
+    }
+}
+
+@media (min-width:1024px){
+    .div1{
+        background-color:rgba(3, 27, 136, 0.986);
+    }
+}
+
+@media (min-width:1280px){
+    .div1{
+        background-color:rgba(0, 121, 20, 0.986);
+    }
+}
+
+@media (min-width:1440px){
+    .div1{
+        background-color:rgba(153, 18, 0, 0.986);
+    }
+}
+800 - marrom
+1024 - azul escuro
+1280 - verde escuro
+1440 - vermelho escuro
+
